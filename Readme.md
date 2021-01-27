@@ -17,3 +17,31 @@
     git config --global user.name "Your Name"
 # Update online git account
  git push -u origin master
+ # PROJECT DISCRIPTION 
+    * User Registration details
+1.user name
+password
+Firstname
+Lastname
+Age
+Gender
+ 
+ 2.Contact
+ e-mail
+ phone number
+
+ 3.Location
+ Region 
+ city
+ gps address
+ 4.other ids
+ passport
+ Drivers license
+ 
+ voters id
+ * login
+ Username
+ password
+
+
+    
