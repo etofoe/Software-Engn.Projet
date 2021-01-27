@@ -16,7 +16,8 @@
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
 # Update online git account
- git push -u origin master
+    git push -u origin master
+    git pull origin master - if you want to merge the current project on github with the local version
  # PROJECT DISCRIPTION 
     * User Registration details
 1.user name
