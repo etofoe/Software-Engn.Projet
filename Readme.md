@@ -15,3 +15,5 @@
 # User identification in first commit
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
+# Update online git account
+ git push -u origin master
