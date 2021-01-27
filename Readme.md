@@ -11,7 +11,7 @@
     git commit -m "first commit" (save any changes)
     git branch -M main(to  updates)
     git remote add origin https://github.com/etofoe/Software-Engn.Projet.git
-    git push -u origin main
+   
 # User identification in first commit
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
