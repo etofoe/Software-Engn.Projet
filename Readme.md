@@ -19,12 +19,13 @@
     git push -u origin master
     git pull origin master - if you want to merge the current project on github with the local version
  # PROJECT DISCRIPTION 
-    * User Registration details
-1.user name
+    * User Registration details by Super Admin
+1.User details
+staffID
 password
+confirm password
 Firstname
 Lastname
-Age
 Gender
  
  2.Contact
@@ -34,15 +35,29 @@ Gender
  3.Location
  Region 
  city
- gps address
- 4.other ids
+
+ 4. Other Identification details for user
  passport
  Drivers license
- 
  voters id
- * login
+ nhis id
+ Ghana Card
+ 
+ # USER SECTION
+ * login Page
  Username
  password
+ select means of identification for security clearance 
+  * Passport
+    Drivers license
+    voters id
+    nhis id
+    Ghana Card
 
+# Database Systems
+    * MondoDB
+    * MySQl
+    * PostgreSQl
+    * 
 
     
